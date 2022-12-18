@@ -1,0 +1,11 @@
+[INFO ] 2022-11-26 18:33:15.149 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-11-26 18:33:15.163 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-18 07:56:12.517 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-18 07:56:47.857 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-18 07:56:47.869 [main] TestNGRunner - test has started
+[INFO ] 2022-12-18 07:56:56.488 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-18 07:56:56.504 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-18 07:57:15.532 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-18 07:57:15.536 [main] TestNGRunner - test has started
+[INFO ] 2022-12-18 07:57:21.654 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-18 07:57:41.487 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
